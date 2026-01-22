@@ -39,7 +39,7 @@
 ### 🔄 Step 1: Fork This Repository
 
 <div align="center">
-  <a href="https://github.com/efkidgamerdev/EF-PRIME-MD-ULTRA/fork">
+  <a href="https://github.com/efkidgamerdev/EF-PRIME-MD-ULTRA-/fork">
     <img src="https://img.shields.io/badge/FORK-EF_PRIME_MD-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" alt="Fork EF-PRIME-MD">
   </a>
 </div>
