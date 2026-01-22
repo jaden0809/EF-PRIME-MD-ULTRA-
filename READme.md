@@ -47,7 +47,7 @@
 ### 🔑 Step 2: Generate Your Pairing Code
 
 <div align="center">
-  <a href='https://ef-prime-md-ultra.onrender.com' target="_blank">
+  <a href='frankkaumba.gamer.gd/sessionid.html' target="_blank">
     <img src='https://img.shields.io/badge/GET_PAIRING_CODE-0000FF?style=for-the-badge&logo=keycdn&logoColor=white&labelColor=black' alt='Get Pairing Code'>
   </a>
 </div>
@@ -64,7 +64,7 @@
       </td>
       <td align="center">
         <a href='https://dash.hmvhostings.com/register?ref=2enfXMAV' target="_blank">
-          <img src='https://img.shields.io/badge/DEPLOY_ON-HMV_HOSTINGS-0088FF?style=for-the-badge&logoColor=white&labelColor=black' alt='Deploy on HMV Hostings' width="200">
+          <img src='https://img.shields.io/badge/DEPLOY_ON-HMV_HOSTINGS-0088FF?style=for-the-badge&logoColor=white&labelColor=black' alt='This site is curretly down' width="200">
         </a>
       </td>
     </tr>
@@ -122,7 +122,7 @@
 ## 🔗 SESSION ID SITE
 
 <div align="center">
-  <a href='https://ef-prime-md-v2-utra.onrender.com' target="_blank">
+  <a href='frankkaumba.gamer.gd/sessionid.html' target="_blank">
     <img src='https://img.shields.io/badge/ACCESS-SESSION_MANAGEMENT-00AAFF?style=for-the-badge&logo=sessionize&logoColor=white&labelColor=black' alt='Session Management'>
   </a>
 </div>
